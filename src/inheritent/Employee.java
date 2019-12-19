@@ -43,8 +43,4 @@ public class Employee extends Studen {
     public void setSalary(int salary) {
         this.salary = salary;
     }
-
-    String toString() {
-
-    }
 }
