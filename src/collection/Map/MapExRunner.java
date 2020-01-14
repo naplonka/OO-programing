@@ -21,5 +21,19 @@ public class MapExRunner {
             }
         }
         System.out.println(hashMap);
+
+        String[] words = string.split(" ");
+        HashMap<String, Integer> wordsOccurance = new HashMap<>();
+
+        for(String word: words) {
+            Integer integer = wordsOccurance.get(word);
+            if(integer==null){
+                wordsOccurance.put(word, 1);
+            }
+            else {
+                wordsOccurance.put(word, integer+1);
+            }
+        }
+        System.out.println(wordsOccurance);
     }
 }
