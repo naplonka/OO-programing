@@ -30,6 +30,4 @@ public class FpNumberRunner {
                 });
         return sum;
     }
-
-
 }
