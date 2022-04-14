@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="assertj-core-3.18.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assertj-core-3.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commons-io-2.8.0-bin/commons-io-2.8.0/commons-io-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

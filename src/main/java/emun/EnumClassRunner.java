@@ -12,6 +12,7 @@ public class EnumClassRunner {
 //        String season = "Winter"; żeby nie tworzyć dziwnych pór roku, tworzymy ENUM
         Season season = Season.SPRING; //bez tworzenia isntancji
 
+        System.out.println(season);
         Season season1 = Season.valueOf("WINTER");
         System.out.println(season1);
         System.out.println(season1.ordinal());// numer porządkowy, nie jest dobrą praktyką uzywani orginal

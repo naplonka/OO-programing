@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar!/org/apache/commons/io/file/PathUtils.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar!/org/apache/logging/log4j/Logger.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/ENR_TestSets/Class2/Jenkins/ENR_A350.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/ENR_TestSets/Class2/Jenkins/ENR_A350_SmartNotes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/ENR_TestSets/Class2/Jenkins/ENR_TC_NotFixedBugs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/TC_TestSets/Jenkins/TC_AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/TC_TestSets/Jenkins/TC_Resolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/app/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/set/TC_TestSets/Jenkins/TC_Resolution_10Screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/phoenix/src/main/java/utils/fileoperation/UnZip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/phoenix/src/main/java/utils/imagecomparison/MethodsName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/phoenix/src/main/java/utils/pdfcomparison/PDFComparison.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../airbus/phoenix/src/test/java/utils/pdfcomparison/PDFComparisonTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacja/junitmockito/junitmockito.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacja/junitmockito/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacja/junitmockito/src/main/java/com/company/DeleteFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacja/junitmockito/src/test/java/com/company/DeleteFileMockito.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacja/junitmockito/src/test/java/com/company/DeleteFileTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacje/seleniumATF/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacje/seleniumATF/src/main/java/pageactions/FluentWait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacje/seleniumATF/src/main/java/pageactions/IPageAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../airbus/aplikacje/seleniumATF/src/main/java/pages/LandingPlatformPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../commons-io-2.8.0-bin/commons-io-2.8.0/commons-io-2.8.0.jar!/org/apache/commons/io/FileUtils.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/javafile/CopyDirectory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/javafile/CopyDirectoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/javafile/DeleteFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/javafile/FileCopyRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/javafile/RenameOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/javafile/CopyDirectoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/TC/ApplicationConfiguration/Mutable/TACO208C111ChartZoomFactorsPortrait_900x1440.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/TC/ApplicationConfiguration/Mutable/TACO210C111ChartZoomFactorsSplitDefault_900x1440.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/scenarios/TC/ApplicationConfiguration/Mutable/TACO211C111ChartZoomFactorsS2_800x1280.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/UITestScenariosRunner/src/main/java/com/jeppesen/efb/airbus/testtool/util/report/ReportLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/UITestScenariosRunner/src/main/resources/extentreport_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/airbus/atf/scripts/AirbusJTC.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/logs/app.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/config/Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/driver/DriverProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/factory/ObjectFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/pageactions/FluentWait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/pages/LandingPlatformPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/pages/PageObjectFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/pages/PlatformWebContent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/config/Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/dataprovider/ArtifactoryDataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/display/Display.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/ArtifactoryDataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/Load.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/LoadENR.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/LoadTC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/PackagePatter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/PackagePattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/platform/SettingsVerifications.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/process/Display.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/process/Platform.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/system/process/ProcessesUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/unittests/fileoperation/CopyFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/unittests/utils/fileoperation/CopyFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/Platform.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/ResourceProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/TestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/CopyFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/DeleteOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/DeleteRenameOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/RenameOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/UnZip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/java/utils/fileoperation/source/test/txt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/resources/config.default.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/main/resources/log4j2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/AbstractChromeDriverTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/FirstTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/unittests/fileoperation/CopyFileTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/unittests/utils/fileoperation/CopyFileTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/utils/fileoperation/CopyFileTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/src/test/java/utils/fileoperation/DeleteRenameOperationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/target/log4j2/app.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/phoenix/phoenix/target/log4j2/roll-by-time/app.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
